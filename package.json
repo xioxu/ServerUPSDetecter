@@ -1,0 +1,12 @@
+{
+  "name": "ServerUPSDetecter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "mailme.xu@gmail.com",
+  "license": "BSD-2-Clause",
+   "dependencies":{
+    "request":"*",
+    "ping":"*"
+  }
+}
